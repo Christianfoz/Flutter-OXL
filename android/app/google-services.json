@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "656833704656",
+    "firebase_url": "https://oxxl-62644.firebaseio.com",
+    "project_id": "oxxl-62644",
+    "storage_bucket": "oxxl-62644.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656833704656:android:0623d312e45faf90f4a4d5",
+        "android_client_info": {
+          "package_name": "com.example.oxl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656833704656-trovdn621subukel7ttpdsuf6mq4847j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt0HrKkREO5JGYfWtf78nmHBajcYoQXjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656833704656-trovdn621subukel7ttpdsuf6mq4847j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
